@@ -276,7 +276,6 @@ td {
     box-sizing: border-box;
 }
 
-/* Individual Card Styling */
 .card {
     background-color: #FFFFFF;
     flex: 1;                       
